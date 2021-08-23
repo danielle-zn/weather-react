@@ -1,5 +1,7 @@
 import React from "react";
 import axios from "axios";
+import humidity from "./images/humidity.png";
+import wind from "./images/wind.png";
 
 export default function Weather() {
   let weatherData = {
