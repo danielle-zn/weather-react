@@ -1,0 +1,23 @@
+.CurrentCityTemp .current-weather {
+  text-align: center;
+  position: relative;
+  left: 20px;
+  border-right: 2px solid #ffff;
+}
+
+.CurrentCityTemp img {
+  width: 50%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.WeatherDetails .weather-conditions {
+  text-align: center;
+  position: relative;
+  top: 5px;
+  right: 20px;
+}
+
+.WeatherDetails .WeatherIcon {
+  width: 30px;
+}
