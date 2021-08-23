@@ -1,0 +1,18 @@
+.SearchForm .search-font {
+  margin-bottom: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.SearchForm .search-button,
+.SearchForm .current-button {
+  background: #bd5fa7;
+  border: 1px solid #bd5fa7;
+  color: #ffff;
+}
+
+.SearchForm .search-button:hover,
+.SearchForm .current-button:hover {
+  background: #ffff;
+  border: 1px solid #ffff;
+  color: #bd5fa7;
+}
