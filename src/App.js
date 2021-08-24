@@ -6,11 +6,8 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <div className="weather-app">
-          <SearchForm />
-          <br />
-          <Weather />
-        </div>
+        <Weather />
+
         <footer className=" mt-5">
           <a
             href="https://github.com/danielle-zn/weather-react.git"
