@@ -1,6 +1,5 @@
 import "./App.css";
 import Weather from "./Weather";
-import SearchForm from "./SearchForm";
 
 function App() {
   return (
