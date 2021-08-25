@@ -1,6 +1,6 @@
 .Weather {
   margin: 30px auto;
-  max-width: 600px;
+  max-width: 650px;
   padding: 35px 30px;
   border-radius: 10px;
   font-family: "Space Mono", monospace;
@@ -30,9 +30,11 @@
   font-weight: bold;
 }
 
-.Weather img {
-  height: 85px;
+.Weather canvas {
   display: inline-block;
+  position: relative;
+  top: 28px;
+  margin-right: 10px;
 }
 
 .Weather .current-temp {
