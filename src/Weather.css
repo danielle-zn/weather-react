@@ -33,14 +33,11 @@
 .Weather canvas {
   display: inline-block;
   position: relative;
-  top: 28px;
-  margin-right: 10px;
 }
 
 .Weather .current-temp {
   display: inline-block;
   position: relative;
-  top: 19px;
 }
 
 .Weather .unit {
