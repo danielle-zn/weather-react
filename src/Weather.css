@@ -37,7 +37,7 @@
 
 .Weather .current-temp {
   display: inline-block;
-  position: relative;
+  margin-top: 25px;
 }
 
 .Weather .unit {
