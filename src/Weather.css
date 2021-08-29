@@ -56,12 +56,6 @@
     top: -55px;
   }
 
-  .Weather .search-button {
-    position: relative;
-    right: 20px;
-    padding: 5px 0px;
-  }
-
   .Weather h1 {
     font-size: 35px;
   }
