@@ -41,3 +41,18 @@
   position: relative;
   bottom: 30px;
 }
+
+@media (max-width: 576px) {
+  .Weather .temperature {
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    top: -35px;
+  }
+
+  .Weather .unit {
+    font-size: 18px;
+    position: relative;
+    top: -55px;
+  }
+}
